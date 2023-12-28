@@ -1,13 +1,17 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-https://github.com/hemantgovekar/simple-app
+- 🔭 I’m currently working on follwoing repos...
+-
+- I) https://github.com/hemantgovekar/simple-app
 
 Will continue to add to this learning list
 1) Express
 2) Mongoose
 3) MongoDb
 4) zod
+
+II)  https://github.com/hemantgovekar/javascript 
+  Adding javascript concepts and DSA in javascript
 
 <!--
 **hemantgovekar/hemantgovekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
