@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on follwoing repos...
--
+
 I) https://github.com/hemantgovekar/simple-app
 
 Will continue to add to this learning list
